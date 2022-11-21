@@ -42,22 +42,39 @@
                     }
                 },
                 {
-                    "source": "D:\\Projects\\Android Studio\\Calculator-AndroidStudio\\app\\src\\main\\res\\values\\themes.xml",
+                    "source": "D:\\AndroidProjects\\Calculator\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "15",
-                        "endColumns": "12",
-                        "endOffsets": "796"
+                        "startLines": "10,6,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "504,312,116",
+                        "endLines": "13,9,5",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "698,498,306"
                     },
                     "to": {
-                        "startLines": "5851",
-                        "startColumns": "4",
-                        "startOffsets": "397387",
-                        "endLines": "5864",
-                        "endColumns": "12",
-                        "endOffsets": "397947"
+                        "startLines": "8358,8362,8366",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "562285,562481,562669",
+                        "endLines": "8361,8365,8369",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "562476,562664,562856"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidProjects\\Calculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,5,6,7,9,10,11,13,14,15,1,17,18,20,3,4,21,12,19,8,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "66,173,207,241,311,345,379,450,484,518,17,585,618,693,100,135,733,413,654,275,552",
+                        "endColumns": "32,32,32,32,32,32,32,32,32,32,47,31,34,38,33,36,35,35,37,34,31",
+                        "endOffsets": "94,201,235,269,339,373,407,478,512,546,60,612,648,727,129,167,764,444,687,305,579"
+                    },
+                    "to": {
+                        "startLines": "1665,1666,1667,1668,1669,1670,1671,1672,1673,1674,1703,1711,1716,1717,1718,1719,1730,1762,1830,1831,1834",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "103424,103457,103490,103523,103556,103589,103622,103655,103688,103721,105703,106990,107399,107434,107473,107507,108538,112790,122942,122980,123139",
+                        "endColumns": "32,32,32,32,32,32,32,32,32,32,47,31,34,38,33,36,35,35,37,34,31",
+                        "endOffsets": "103452,103485,103518,103551,103584,103617,103650,103683,103716,103749,105746,107017,107429,107468,107502,107539,108569,112821,122975,123010,123166"
                     }
                 },
                 {
@@ -114,25 +131,6 @@
                     }
                 },
                 {
-                    "source": "D:\\Projects\\Android Studio\\Calculator-AndroidStudio\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "10,6,2",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "504,312,116",
-                        "endLines": "13,9,5",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "698,498,306"
-                    },
-                    "to": {
-                        "startLines": "8358,8362,8366",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "562285,562481,562669",
-                        "endLines": "8361,8365,8369",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "562476,562664,562856"
-                    }
-                },
-                {
                     "source": "C:\\Users\\thefo\\.gradle\\caches\\transforms-3\\21755dfb125ba8aca0d81387a0fbc842\\transformed\\appcompat-resources-1.5.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,18,24,34,50",
@@ -166,23 +164,6 @@
                         "startOffsets": "98074",
                         "endColumns": "59",
                         "endOffsets": "98129"
-                    }
-                },
-                {
-                    "source": "D:\\Projects\\Android Studio\\Calculator-AndroidStudio\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "7,9,11,10,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "293,379,465,423,57,105,153,201,247,336",
-                        "endColumns": "41,42,38,40,46,46,46,44,44,41",
-                        "endOffsets": "330,417,499,459,99,147,195,241,287,373"
-                    },
-                    "to": {
-                        "startLines": "611,624,668,829,838,839,840,851,852,855",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "31106,32038,35050,46658,47287,47334,47381,48125,48170,48336",
-                        "endColumns": "41,42,38,40,46,46,46,44,44,41",
-                        "endOffsets": "31143,32076,35084,46694,47329,47376,47423,48165,48210,48373"
                     }
                 },
                 {
@@ -332,23 +313,6 @@
                     }
                 },
                 {
-                    "source": "D:\\Projects\\Android Studio\\Calculator-AndroidStudio\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "2,5,6,7,9,10,11,13,14,15,1,17,18,20,3,4,21,12,19,8,16",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "66,173,207,241,311,345,379,450,484,518,17,585,618,693,100,135,733,413,654,275,552",
-                        "endColumns": "32,32,32,32,32,32,32,32,32,32,47,31,34,38,33,36,35,35,37,34,31",
-                        "endOffsets": "94,201,235,269,339,373,407,478,512,546,60,612,648,727,129,167,764,444,687,305,579"
-                    },
-                    "to": {
-                        "startLines": "1665,1666,1667,1668,1669,1670,1671,1672,1673,1674,1703,1711,1716,1717,1718,1719,1730,1762,1830,1831,1834",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "103424,103457,103490,103523,103556,103589,103622,103655,103688,103721,105703,106990,107399,107434,107473,107507,108538,112790,122942,122980,123139",
-                        "endColumns": "32,32,32,32,32,32,32,32,32,32,47,31,34,38,33,36,35,35,37,34,31",
-                        "endOffsets": "103452,103485,103518,103551,103584,103617,103650,103683,103716,103749,105746,107017,107429,107468,107502,107539,108569,112821,122975,123010,123166"
-                    }
-                },
-                {
                     "source": "C:\\Users\\thefo\\.gradle\\caches\\transforms-3\\b975d4bc4d6d45f491a86fff0fa3caaf\\transformed\\viewpager2-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -384,6 +348,42 @@
                         "endLines": "1516,1547,1584,10542,10546",
                         "endColumns": "56,64,63,24,24",
                         "endOffsets": "94780,96383,98297,643077,643226"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidProjects\\Calculator\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,9,11,10,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "286,370,454,413,55,102,149,196,241,328",
+                        "endColumns": "41,42,38,40,46,46,46,44,44,41",
+                        "endOffsets": "323,408,488,449,97,144,191,236,281,365"
+                    },
+                    "to": {
+                        "startLines": "611,624,668,829,838,839,840,851,852,855",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "31106,32038,35050,46658,47287,47334,47381,48125,48170,48336",
+                        "endColumns": "41,42,38,40,46,46,46,44,44,41",
+                        "endOffsets": "31143,32076,35084,46694,47329,47376,47423,48165,48210,48373"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidProjects\\Calculator\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "15",
+                        "endColumns": "12",
+                        "endOffsets": "781"
+                    },
+                    "to": {
+                        "startLines": "5851",
+                        "startColumns": "4",
+                        "startOffsets": "397387",
+                        "endLines": "5864",
+                        "endColumns": "12",
+                        "endOffsets": "397947"
                     }
                 }
             ]
