@@ -13,19 +13,17 @@
 
     <TextView
         android:id="@+id/label"
-        android:layout_width="337dp"
-        android:layout_height="69dp"
+        android:layout_width="341dp"
+        android:layout_height="59dp"
         android:layout_marginStart="30dp"
         android:layout_marginEnd="30dp"
         android:layout_marginBottom="20dp"
-        android:orientation="vertical"
         android:text="@string/label"
         android:textAlignment="textEnd"
         android:textColor="@color/white"
-        android:textSize="25pt"
+        android:textSize="18pt"
         app:layout_constraintBottom_toTopOf="@+id/first"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent" />
 
     <LinearLayout
@@ -41,6 +39,7 @@
         <Button
             android:id="@+id/C"
             style="@style/grayBut"
+            android:onClick="Click"
             android:layout_width="80dp"
             android:layout_height="90dp"
             android:layout_margin="5dp"
@@ -51,6 +50,7 @@
             app:cornerRadius="50dp" />
 
         <Button
+            android:onClick="Click"
             android:id="@+id/AC"
             style="@style/grayBut"
             android:layout_width="80dp"
@@ -64,6 +64,7 @@
             />
 
         <Button
+            android:onClick="Click"
             android:id="@+id/percent"
             style="@style/grayBut"
             android:layout_width="80dp"
@@ -76,6 +77,7 @@
             app:cornerRadius="50dp" />
 
         <Button
+            android:onClick="Click"
             android:id="@+id/division"
             style="@style/orangeBut"
             android:layout_width="80dp"
@@ -99,6 +101,7 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <Button
+            android:onClick="Click"
             android:id="@+id/seven"
             style="@style/darkGrayBut"
             android:layout_width="80dp"
@@ -110,6 +113,7 @@
             app:cornerRadius="50dp" />
 
         <Button
+            android:onClick="Click"
             android:id="@+id/eight"
             style="@style/darkGrayBut"
             android:layout_width="80dp"
@@ -121,6 +125,7 @@
             app:cornerRadius="50dp" />
 
         <Button
+            android:onClick="Click"
             android:id="@+id/nine"
             style="@style/darkGrayBut"
             android:layout_width="80dp"
@@ -132,6 +137,7 @@
             app:cornerRadius="50dp" />
 
         <Button
+            android:onClick="Click"
             android:id="@+id/x"
             style="@style/orangeBut"
             android:layout_width="80dp"
@@ -155,6 +161,7 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <Button
+            android:onClick="Click"
             android:id="@+id/four"
             style="@style/darkGrayBut"
             android:layout_width="80dp"
@@ -166,6 +173,7 @@
             app:cornerRadius="50dp" />
 
         <Button
+            android:onClick="Click"
             android:id="@+id/five"
             style="@style/darkGrayBut"
             android:layout_width="80dp"
@@ -177,6 +185,7 @@
             app:cornerRadius="50dp" />
 
         <Button
+            android:onClick="Click"
             android:id="@+id/six"
             style="@style/darkGrayBut"
             android:layout_width="80dp"
@@ -188,6 +197,7 @@
             app:cornerRadius="50dp" />
 
         <Button
+            android:onClick="Click"
             android:id="@+id/minus"
             style="@style/orangeBut"
             android:layout_width="80dp"
@@ -211,6 +221,7 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <Button
+            android:onClick="Click"
             android:id="@+id/one"
             style="@style/darkGrayBut"
             android:layout_width="80dp"
@@ -222,6 +233,7 @@
             app:cornerRadius="50dp" />
 
         <Button
+            android:onClick="Click"
             android:id="@+id/two"
             style="@style/darkGrayBut"
             android:layout_width="80dp"
@@ -233,6 +245,7 @@
             app:cornerRadius="50dp" />
 
         <Button
+            android:onClick="Click"
             android:id="@+id/three"
             style="@style/darkGrayBut"
             android:layout_width="80dp"
@@ -245,6 +258,7 @@
 
 
         <Button
+            android:onClick="Click"
             android:id="@+id/plus"
             style="@style/orangeBut"
             android:layout_width="80dp"
@@ -269,6 +283,7 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <Button
+            android:onClick="Click"
             android:id="@+id/zero"
             style="@style/darkGrayBut"
             android:layout_width="170dp"
@@ -281,6 +296,7 @@
             tools:ignore="DuplicateSpeakableTextCheck" />
 
         <Button
+            android:onClick="Click"
             android:id="@+id/dot"
             style="@style/darkGrayBut"
             android:layout_width="80dp"
@@ -292,6 +308,7 @@
             app:cornerRadius="50dp" />
 
         <Button
+            android:onClick="Click"
             android:id="@+id/equals"
             style="@style/orangeBut"
             android:layout_width="80dp"
