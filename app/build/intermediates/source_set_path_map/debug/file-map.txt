@@ -22,11 +22,11 @@ com.example.calculator.app-annotation-experimental-1.1.0-20 C:\Users\thefo\.grad
 com.example.calculator.app-lifecycle-viewmodel-savedstate-2.5.1-21 C:\Users\thefo\.gradle\caches\transforms-3\d31ee54d83642fbbf49b8f3dc133f4f3\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
 com.example.calculator.app-cardview-1.0.0-22 C:\Users\thefo\.gradle\caches\transforms-3\fa3659a04c6e45d556b5f8662112b28b\transformed\cardview-1.0.0\res
 com.example.calculator.app-coordinatorlayout-1.1.0-23 C:\Users\thefo\.gradle\caches\transforms-3\fe0fd5ae30eba395a4c7b39f593407e5\transformed\coordinatorlayout-1.1.0\res
-com.example.calculator.app-pngs-24 D:\AndroidProjects\Calculator\app\build\generated\res\pngs\debug
-com.example.calculator.app-resValues-25 D:\AndroidProjects\Calculator\app\build\generated\res\resValues\debug
-com.example.calculator.app-rs-26 D:\AndroidProjects\Calculator\app\build\generated\res\rs\debug
-com.example.calculator.app-packageDebugResources-27 D:\AndroidProjects\Calculator\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.calculator.app-packageDebugResources-28 D:\AndroidProjects\Calculator\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.calculator.app-merged_res-29 D:\AndroidProjects\Calculator\app\build\intermediates\merged_res\debug
-com.example.calculator.app-debug-30 D:\AndroidProjects\Calculator\app\src\debug\res
-com.example.calculator.app-main-31 D:\AndroidProjects\Calculator\app\src\main\res
+com.example.calculator.app-pngs-24 D:\Projects\Android Studio\Calculator-AndroidStudio\app\build\generated\res\pngs\debug
+com.example.calculator.app-resValues-25 D:\Projects\Android Studio\Calculator-AndroidStudio\app\build\generated\res\resValues\debug
+com.example.calculator.app-rs-26 D:\Projects\Android Studio\Calculator-AndroidStudio\app\build\generated\res\rs\debug
+com.example.calculator.app-packageDebugResources-27 D:\Projects\Android Studio\Calculator-AndroidStudio\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.calculator.app-packageDebugResources-28 D:\Projects\Android Studio\Calculator-AndroidStudio\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.calculator.app-merged_res-29 D:\Projects\Android Studio\Calculator-AndroidStudio\app\build\intermediates\merged_res\debug
+com.example.calculator.app-debug-30 D:\Projects\Android Studio\Calculator-AndroidStudio\app\src\debug\res
+com.example.calculator.app-main-31 D:\Projects\Android Studio\Calculator-AndroidStudio\app\src\main\res

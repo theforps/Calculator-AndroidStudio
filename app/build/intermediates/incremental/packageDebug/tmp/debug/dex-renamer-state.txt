@@ -1,9 +1,9 @@
-#Sun Nov 20 01:58:46 MSK 2022
-base.2=D\:\\AndroidProjects\\Calculator\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+#Sun Nov 20 16:18:48 MSK 2022
+base.2=D\:\\Projects\\Android Studio\\Calculator-AndroidStudio\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
 path.2=14/classes.dex
-base.1=D\:\\AndroidProjects\\Calculator\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=D\:\\Projects\\Android Studio\\Calculator-AndroidStudio\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 path.1=0/classes.dex
-base.0=D\:\\AndroidProjects\\Calculator\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.0=D\:\\Projects\\Android Studio\\Calculator-AndroidStudio\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
