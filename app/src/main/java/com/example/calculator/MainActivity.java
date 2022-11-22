@@ -46,7 +46,8 @@ public class MainActivity extends AppCompatActivity {
                     && textOfLabel.length() == 1 || textOfLabel.charAt(0) == 'N') {
                 textOfLabel = "";
 
-            } else if (textOfBut.charAt(0) == 'C')
+            }
+            if (textOfBut.charAt(0) == 'C')
                 textOfLabel = "0";
 
             else if (textOfBut.charAt(0) == 'A' && textOfLabel.length() >= 2)

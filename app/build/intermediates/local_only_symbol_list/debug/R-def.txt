@@ -42,6 +42,7 @@ id x
 id zero
 layout activity_main
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string _0
 string _1
